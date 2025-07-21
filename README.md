@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eric Joseph
 ===================================================================================================================================
 
-Software Developer
+Software Engineering <3
 ------------------
 
 I'm a software engineer by +10 years and a tech enthusiast coding is my daily hobby. My career started in 2020 with backend maintenance. Later, I worked independently in cybersecurity roles.
