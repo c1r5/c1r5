@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering <3
 ------------------
 
-I'm a software engineer by +10 years and a tech enthusiast coding is my daily hobby. My career started in 2020 with backend maintenance. Later, I worked independently in cybersecurity roles.
+I'm write code by +10 years and a tech enthusiast coding is my daily hobby. My career started in 2020 with backend maintenance. Later, I worked independently in cybersecurity roles.
 
 *   🌍  I'm based in Brazil
 *   🧠  I'm learning Google ADK, Agentic LLMs and Automated Workflows.
